@@ -1,0 +1,7 @@
+.section-style {
+/* correct the name of the properties  to margin-right and margin-left */ 
+    margin-right: 25px;
+    margin-left: 25px;
+    /* correct the name of the property to background-colour */
+    backcolor: white;
+}
